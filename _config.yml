@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://beforeisleep.github.io
+title: Everyday Privacy
+tagline: Privacy for everyone
+description: My awesome new site
+paginate: 5
