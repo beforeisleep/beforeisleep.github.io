@@ -3,34 +3,14 @@ published: false
 title: Privacy
 layout: post
 ---
-The concept of privacy has always been somewhat foreign to me despite privacy issues are prevalent in mass media. Examples include NSA spying on US citizens, celebrities making their children off-limits to tabloids, leak of intimate photograph in social media, Facebook real name policy for LGBT. People, affiliate groups, and organizations such as (EFF)[https://www.eff.org/] are fighting to secure their privacy and ours, as of now and into the future. These news, however, don't hit home with me mostly because, for one, the people who are affected are not the belongs to groups and communities where I do not belong: journalists, political dissidents, celebrities and LGBT. The discussion around those groups also tend to drift towards broader issues surrounding them that very privacy issues become somewhat secondary. (Facebook has not lifted real-name policy despite immediate and real risks posed to the community: link here.) Furthermore, it is difficult to for me to imagine how, concretely, the loss of privacy may play out in my life today, and in the future. 
+Privacy has always been a distant topic to me although privacy issues are widely covered in media: NSA's spying on US citizens, privacy of celebrities' children, leaks of intimate photographs in social media, LGBT's fight against Facebook's 'Real Name Policy'. People, affiliate groups, and organizations such as (EFF)[https://www.eff.org/] are fighting to secure their privacy, and ours, now and for our future. 
 
-The closest privacy issue in the wild maybe the 'privacy' around intimate pictures that are leaked to the internet. Those naked selfies! It does bring up the privacy issue front. But again, about decency of those involved as well as damage done to one's reputation or to shame someone to harass and demean (revenge porn). The issue becomes 'how to deal with your naked picture.' It doesn't feel serious enough. People who don't have such habit may simple snicker at them, and move on.
-Online trolling, freedom of speech, and broader topic around abusive content on the internet. And besides SnapChat and self-expiring messages solve the problem, right?
+This may be because it is difficult for me to imagine how, concretely, the loss of privacy may possibly play out in my life. I do not belong to such groups and communities that are often cited: journalists, political dissidents, celebrities or LGBT community. Furthermore, I have always felt that the focus of the discussions, over time, tend to drift towards broader agenda surrounding these groups. What about those leaked pictures? Again, what come to the forefront, in my view, are the decency of the online communities, social networks and their participants, and discussions around specific harassments (e.g. revenge porn) and the freedom of speech. Besides, SnapChat solves the problem, right? I can control my privacy if I ever needed to, right?
 
-Privacy about location tracking. Yes, maybe its important, but its useful. Is it ok for you, or it isn't. Maybe many would brush off and forget.
+I understand, intellectually, what privacy is about, and that it matters. I understand that it is a big deal. But I have not fought for our privacy that is being chipped away with or without our knowledge or consent. I have not payed enough attention to how well we are - or we are not - equipped to be in control of our privacy.
 
-The reality is that we all understand, intellectually, what privacy is it matters to everyone, and can sense it is a big deal. 
+The goal of this blog is to talk about privacy in ways that are much more 'real'. Maybe if I talk about it, maybe I, and the readers, get to 'feel' why privacy matters. If I am lucky, maybe I can help contribute to making privacy a household topic.
 
-The goal of this blog is to do exactly that: to talk about privacy in a way that are more 'real', so that there is wider awareness of privacy. There must to be privacy issues that are often not talked about in media but they should. In addition, I would also investigate how technology  and services that we use everyday may or may not assist us in combatting privacy issues. How can privacy affect my employment? 
+But why me? Why now?
 
-Wikipedia defines 'privacy' as:
-`
-(Wikipedia)[https://en.wikipedia.org/wiki/Privacy] lists 
-1 Types of privacy
-1.1 Right to be let alone
-1.2 Limited access
-1.3 Control over information
-1.4 Secrecy
-1.5 Personhood
-1.6 Intimacy
-1.7 Concepts in popular media
-1.7.1 Personal privacy
-1.7.2 Informational
-1.7.3 Organizational
-1.7.4 Spiritual and intellectual
-`
-
-Maybe we should talk more about it. So what makes me the right person to talk about privacy?
-
-Because I am being stalked online. It started almost three months ago.
+Because I am being stalked. 
