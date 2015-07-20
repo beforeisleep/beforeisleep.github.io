@@ -3,15 +3,16 @@ published: false
 title: Privacy
 layout: post
 ---
-The concept of privacy has always been somewhat foreign to me. The privacy issues are often cited in mass media: NSA spying on US citizens, celebrities making their children off-limits to tabloids, with organization such as EFF fighting, everyday, to secure out privacy, our only today, but for our future. Having said that, these news didn't carry much urgency - at least to me - mostly because 1) the people who are affected are not the ordinary citizens, but are the likes of journalists, political dissidents, and celebrities, or 2) it is difficult to imagine how, concretely, the loss of privacy affects our lives in the future. 
+The concept of privacy has always been somewhat foreign to me despite privacy issues being often cited in mass media. Examples include NSA spying on US citizens, celebrities making their children off-limits to tabloids leak of intimate photograph in social media. People, affiliate groups, and organizations like (EFF)[https://www.eff.org/] are fighting to secure their privacy and our privacy as of present and for our future. These news, however, didn't hit home with me mostly because, for one, the people who are affected are not the ordinary citizens, but are the likes of journalists, political dissidents, and celebrities. Furthermore, it is difficult to imagine how, concretely, the loss of privacy play out in our lives especially in our future. Or that maybe the discussion is focused around specific group of people, just as (LGBT)[insert link here].
 
-The closest privacy issue in the wild is all those private pictures leaking out to the internet. Materials, that were meant for private consumption leaks to the public. Those naked pictures! This does bring up privacy issue but the coverage tend to focus on lack of understanding of technology or exploit of it, or about decency of those involved as well as damage done to one's reputation or to shame someone to harass and demean (revenge porn). The issue becomes 'how to deal with your naked picture.' It doesn't feel serious enough. People who don't have such habit may simple snicker at them, and move on.
+The closest privacy issue in the wild is all those private pictures leaking out to the internet. Materials, that were meant for private consumption leaks to the public. Those naked selfies! This does bring up privacy issue but the coverage tend to focus on lack of understanding of technology or exploit of it, or about decency of those involved as well as damage done to one's reputation or to shame someone to harass and demean (revenge porn). The issue becomes 'how to deal with your naked picture.' It doesn't feel serious enough. People who don't have such habit may simple snicker at them, and move on.
+
 
 Privacy about location tracking. Yes, maybe its important, but its useful. Is it ok for you, or it isn't. Maybe many would brush off and forget.
 
 The reality is that we all understand, intellectually, what privacy is it matters to everyone, and can sense it is a big deal. 
 
-The goal of this blog is to do exactly that: to talk about privacy in a way that are more 'real', so that there is wider awareness of privacy. There must to be privacy issues that are often not talked about in media but they should. In addition, I would also investigate how technology  and services that we use everyday may or may not assist us in combatting privacy issues.
+The goal of this blog is to do exactly that: to talk about privacy in a way that are more 'real', so that there is wider awareness of privacy. There must to be privacy issues that are often not talked about in media but they should. In addition, I would also investigate how technology  and services that we use everyday may or may not assist us in combatting privacy issues. How can privacy affect my employment? 
 
 Wikipedia defines 'privacy' as:
 `
