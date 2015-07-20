@@ -1,0 +1,18 @@
+---
+published: false
+title: Privacy
+layout: post
+---
+Wikipedia defines 'privacy' as:
+`
+`
+
+The notion of privacy has always been somewhat distant to me. The privacy issues are often cited in mass media: NSA spying on US citizens, celebrities making their children off-limits to tabloids, with organization such as EFF fighting, everyday, to secure out privacy, not only today, but for our future. Having said that, these news didn't carry much urgency - at least to me - mostly because 1) the people who are affected are not the ordinary citizens, but are the likes of journalists, political dissidents, and celebrities, or 2) it is difficult to imagine how, concretely, the loss of privacy affects our lives in the future. 
+
+We all do understand, intellectually, that privacy is important; and there must be privacy issues that are often not talked about in media but they should. 
+
+The goal of this blog is to do exactly that: to talk about privacy in a way that are more 'real', so that there is wider awareness of privacy. In addition, I would also investigate how technology  and services that we use everyday may or may not assist us in combatting privacy issues.
+
+So what makes me the right person to talk about privacy?
+
+Because I am being stalked online. It started almost three months ago.
